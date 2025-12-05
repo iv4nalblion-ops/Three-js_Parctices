@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+out/
+
+# Local configuration files
+.env
+.env.*.local
+
+# IDE and OS specific files
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
+
+# Three.js specific files (if applicable and not managed by a package manager)
+# For example, if you manually downloaded the Three.js library into a 'libs' folder
+# libs/three/
